@@ -1,0 +1,7 @@
+﻿CodingTest/Library
+CodingTest/obj
+CodingTest/UserSettings
+CodingTest/Temp
+*.csproj
+CodingTest/Logs
+CodingTest/.idea
